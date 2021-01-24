@@ -435,8 +435,8 @@ img {
 }
 
 .img-responsive {
-    width: 75%;
-    height: 280px;
+    width: 73%;
+    height: 300px;
     border: 2px solid black;
     padding: 0px 0px 0px 0px;
 }
@@ -2441,7 +2441,7 @@ h2 {
 }
 
 .col-md-5 {
-    padding: 83px 50px 40px 50px;
+    padding: 50px 50px 40px 50px;
 }
 
 .col-12 {

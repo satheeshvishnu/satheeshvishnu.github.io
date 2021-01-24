@@ -436,9 +436,9 @@ img {
 
 .img-responsive {
     width: 75%;
-    height: 270px;
+    height: 280px;
     border: 2px solid black;
-    padding: 5px 5px 5px 5px;
+    padding: 0px 0px 0px 0px;
 }
 
 .img-responsive_cert {

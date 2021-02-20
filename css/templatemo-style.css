@@ -182,22 +182,27 @@ a:hover {
 
 .tm-text-green {
   color: #98cb00;
+  text-align: center;
 }
 
 .tm-text-orange {
   color: #cc6733;
+  text-align: center;
 }
 
 .tm-text-blue {
   color: #3398cc;
+  text-align: center;
 }
 
 .tm-text-dark-gray {
   color: #676767;
+  text-align: center;
 }
 
 .tm-title-small {
   font-size: 1.3rem;
+  text-align: center;
 }
 
 p {

@@ -767,14 +767,42 @@ p {
 .tm-about-name_1 {
   margin-top: 30px;
   margin-bottom: 0px;
-  margin-right: -50px;
+  margin-right: -170px;
   min-width: max-content;
+}
+
+.tm-about-name_1a {
+  margin-top: 30px;
+  margin-bottom: 0px;
+  margin-right: -170px;
+  /* min-width: max-content; */
+}
+
+.tm-about-name_1ba {
+  margin-top: 30px;
+  margin-bottom: 0px;
+  margin-right: -20px;
+  color: white;
+}
+
+.tm-about-name_1bb {
+  margin-top: 10px;
+  margin-bottom: 0px;
+  margin-right: -170px;
+  color: white;
+}
+
+.tm-about-name_1bc {
+  margin-top: 10px;
+  margin-bottom: 0px;
+  margin-right: -60px;
+  color: white;
 }
 
 .tm-about-name_2 {
   margin-top: -10px;
   margin-bottom: 0px;
-  margin-right: -70px;
+  margin-right: -165px;
   min-width: max-content;
 }
 
@@ -782,14 +810,14 @@ p {
   margin-top: -10px;
   margin-bottom: 0px;
   margin-left: 65px;
-  margin-right: -90px;
+  margin-right: -150px;
 }
 
 .tm-about-name_4 {
   margin-top: -10px;
   margin-bottom: 0px;
   margin-left: 10px;
-  margin-right: -70px;
+  margin-right: -180px;
 }
 
 /* .tm-about-description {
